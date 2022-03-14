@@ -1,0 +1,2 @@
+# adblock
+Ad block list
